@@ -1,0 +1,17 @@
+package udemy;
+
+import java.util.Scanner;
+
+public class teste {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int x = sc.nextInt();
+		
+		for (int i = 1; i <= x; i++) {
+			System.out.printf("%d %d %d", i, i, i);
+		}
+				
+		System.out.println(x);
+		sc.close();
+	}
+}
