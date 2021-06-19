@@ -3,4 +3,5 @@
     <libraryInfo home="C:\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.2.v20210201-0955\jre" version="15.0.2"/>
     <libraryInfo home="/usr/lib/jvm/java-15-oracle" version="15.0.2"/>
     <libraryInfo home="C:\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.2.v20210201-0955" version="15.0.2"/>
+    <libraryInfo home="/usr/lib/jvm/java-11-openjdk-amd64" version="11.0.11"/>
 </libraryInfos>
