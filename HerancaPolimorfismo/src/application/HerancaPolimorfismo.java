@@ -12,7 +12,7 @@ import entities.ImportedProduct;
 import entities.Product;
 import entities.UsedProduct;
 
-public class Program {
+public class HerancaPolimorfismo {
 
 	public static void main(String[] args) throws ParseException {
 		
