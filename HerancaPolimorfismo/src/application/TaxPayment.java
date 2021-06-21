@@ -43,12 +43,11 @@ public class TaxPayment {
 			System.out.println("TAXES PAID:");
 			double sum = 0;
 			for (TaxPayer p : list) {
-				System.out.println(p.toString());	
+				System.out.println(p.getName() + " $ " + String.format("%.2f", p.taxesPaid()));	
 				sum += p.taxesPaid();
 			}
 			System.out.println();
-			System.out.print("TOTAL TAXES: $");
-			System.out.printf("%.2f", sum );
+			System.out.println("TOTAL TAXES: $" + String.format("%.2f", sum));
 		}
 				
 		sc.close();

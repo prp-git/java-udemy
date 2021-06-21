@@ -11,4 +11,5 @@
     <fullyQualifiedTypeName name="entities.TaxPayer"/>
     <fullyQualifiedTypeName name="entities.Company"/>
     <fullyQualifiedTypeName name="entities.Individual"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>

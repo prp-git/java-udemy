@@ -2,7 +2,7 @@ package entities;
 
 public class Individual extends TaxPayer {
 	
-	public Double HealthExpenditures;
+	private Double HealthExpenditures;
 	
 	public Individual () {
 		super();

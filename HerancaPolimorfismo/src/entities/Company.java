@@ -2,7 +2,7 @@ package entities;
 
 public class Company extends TaxPayer{
 
-		public Integer employeeNumber;
+		private Integer employeeNumber;
 		
 		public Company() {
 			super();
